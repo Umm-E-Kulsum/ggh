@@ -115,7 +115,7 @@ The resulting value represents the severity of the disaster, with higher values 
         |  Full)            |
         +-------------------+
 ```
-
+```
 
 Fuzzy Logic System for Earthquake Disaster Management
 
